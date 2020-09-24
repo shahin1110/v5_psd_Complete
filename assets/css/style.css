@@ -663,6 +663,9 @@ background: #02BAAB;
 	padding-bottom: 4rem;
 	
 }
+.tweets-item {
+	width: 97%;
+}
 .tweets-item ul li i{
 	color: #02BAAB;
 	padding-top: 0.5rem;
